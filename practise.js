@@ -12,4 +12,13 @@
 // b=s.slice(2,4);
 // console.log(b)
 
+// let str = "apple,banana,cherry";
+// let fruits = str.split(",");
+// console.log(fruits); 
 
+
+// let name = "John";
+// let message = `Hello, ${name}!`;
+// console.log(message); 
+// console.log(message.toUpperCase());
+// console.log(message.toLowerCase());
