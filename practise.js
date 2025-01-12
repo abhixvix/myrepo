@@ -22,3 +22,9 @@
 // console.log(message); 
 // console.log(message.toUpperCase());
 // console.log(message.toLowerCase());
+
+
+// let str = "JavaScript";
+// for (let char of str) {
+//   console.log(char); 
+// }
