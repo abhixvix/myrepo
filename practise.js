@@ -28,3 +28,11 @@
 // for (let char of str) {
 //   console.log(char); 
 // }
+
+// document.getElementById("send-btn").addEventListener("click", sendMessage);
+
+// function sendMessage() {
+//   const userInput = document.getElementById("user-input");
+//   const chatWindow = document.getElementById("chat-window");
+//   const userMessage = userInput.value.trim();
+
