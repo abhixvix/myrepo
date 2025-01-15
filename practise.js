@@ -42,3 +42,12 @@
 //     userMsgElement.className = "chat-message user-message";
 //     userMsgElement.textContent = userMessage;
 //     chatWindow.appendChild(userMsgElement);
+
+
+ // // Display bot response
+ //    const botMsgElement = document.createElement("div");
+ //    botMsgElement.className = "chat-message bot-message";
+ //    botMsgElement.textContent = getBotResponse(userMessage);
+ //    chatWindow.appendChild(botMsgElement);
+
+
