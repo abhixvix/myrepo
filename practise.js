@@ -50,4 +50,15 @@
  //    botMsgElement.textContent = getBotResponse(userMessage);
  //    chatWindow.appendChild(botMsgElement);
 
+ // Scroll to the latest message
+    chatWindow.scrollTop = chatWindow.scrollHeight;
 
+//     // Clear the input field
+//     userInput.value = "";
+//   }
+// }
+
+// function getBotResponse(userMessage) {
+//   // Placeholder bot response logic
+//   return "I'm a simple bot. You said: " + userMessage;
+// }
