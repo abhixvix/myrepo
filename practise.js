@@ -36,3 +36,9 @@
 //   const chatWindow = document.getElementById("chat-window");
 //   const userMessage = userInput.value.trim();
 
+// if (userMessage) {
+//     // Display user message
+//     const userMsgElement = document.createElement("div");
+//     userMsgElement.className = "chat-message user-message";
+//     userMsgElement.textContent = userMessage;
+//     chatWindow.appendChild(userMsgElement);
